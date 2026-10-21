@@ -1,0 +1,32 @@
+# Built binaries and packages
+*.apk
+*.aab
+*.zip
+*.tar.gz
+
+# Gradle
+.gradle/
+build/
+*/build/
+launcher/local.properties
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+venv/
+env/
+.venv/
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Local logs
+*.log
